@@ -217,7 +217,7 @@ blockquote {
 }
 
 blockquote:before {
-    content: "\f100";
+    content: "";
     color: #cccccc;
     font-size: 42px;
     font-style: normal;
