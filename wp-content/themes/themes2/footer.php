@@ -56,8 +56,8 @@
 
 <div class="up_button">
     <a href="#up">
-        <!--img src="img.up.png" alt="/\"-->
-        <div>
+        <!--img class="arrow" src="img.up.png" alt="/\"-->
+        <div class="arrow">
             <i class="fa fa-angle-up"></i>
         </div>
     </a>

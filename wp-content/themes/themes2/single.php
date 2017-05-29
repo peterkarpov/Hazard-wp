@@ -21,7 +21,7 @@
                                     <li><?php the_category(); ?></li>
                                     <li><?php the_time('j M Y'); ?></li>
                                     <li>
-                                        <a href="#">
+                                        <a href="#respond">
                                             <i class="fa fa-comment"></i>
                                             <?php comments_number('0', '1', '%') ?>
                                         </a>
@@ -141,7 +141,13 @@
 
 </div>
 
-
+<div class="container">
+    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+        <div class="row">
+            <?php comments_template(); ?>
+        </div>
+    </div>
+</div>
 
 <?php get_footer(); ?>
 <?php wp_footer(); ?>

@@ -119,20 +119,22 @@ $(document).ready(function () {
 
     //Кнопка Наверх
 
-    $('.up_button img').fadeOut();
+    $('.up_button .arrow').fadeOut();
 
     $(window).scroll(function () {
         if ($(this).scrollTop() > 800) {
-            $('.up_button img').fadeIn();
+            $('.up_button .arrow').fadeIn();
         } else {
-            $('.up_button img').fadeOut();
+            $('.up_button .arrow').fadeOut();
         }
     });
 
-    $('.up_button img').click(function () {
+    $('.up_button .arrow').click(function () {
         $("html, body").animate({scrollTop: 0}, 600);
         return false;
     })
+
+
 
 ////Мега-меню и мобайл меню
 //$(".sf-menu").superfish({
