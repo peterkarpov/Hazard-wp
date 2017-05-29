@@ -32,7 +32,7 @@
                         <ul>
                             <div class="search-mobile hidden-lg hidden-md">
                                 <form action="" method="post" class="search">
-                                    <input type="search" name="" placeholder="поиск" class="input"/>
+                                    <input type="search" name="s" placeholder="поиск" class="input"/>
                                     <input type="submit" name="" value="" class="submit"/>
                                 </form>
                             </div>
@@ -90,7 +90,7 @@
         <div class="row">
             <div class="search_popup hidden-sm hidden-xs">
                 <form action="" method="post" class="search_vspl">
-                    <input type="search" name="" placeholder="Поиск..." class="input_vspl"/>
+                    <input type="search" name="s" placeholder="Поиск..." class="input_vspl"/>
                     <button type="submit" class="searchsubmit" name="submit" value="Search">
                         <i class="fa fa-search"></i>
                     </button>
