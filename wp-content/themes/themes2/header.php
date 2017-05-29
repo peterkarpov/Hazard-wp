@@ -24,6 +24,7 @@
 
 <a name="up"></a>
 
+<div class="flexbox">
 <div class="wrapper_my">
 
     <header class="top_header">

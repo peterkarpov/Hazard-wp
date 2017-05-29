@@ -119,7 +119,13 @@
     .uslugy_wrapper {
         padding-left: 0px;
     }
+
+    .up_button {
+        display: none;
+    }
 }
+
+
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {

@@ -1,3 +1,4 @@
+</div><!-- wrapper_my -->
 <div class="footer_my">
     <div class="container">
         <div class="col-lg-12 col-md-12">
@@ -51,3 +52,18 @@
         </div>
     </div>
 </div>
+</div><!-- flexbox -->
+
+<div class="up_button">
+    <a href="#up">
+        <!--img src="img.up.png" alt="/\"-->
+        <div>
+            <i class="fa fa-angle-up"></i>
+        </div>
+    </a>
+</div>
+
+<!-- Yandex.Metrika counter --><!-- /Yandex.Metrika counter -->
+<!-- Google Analytics counter --><!-- /Google Analytics counter -->
+</body>
+</html>

@@ -110,7 +110,6 @@
         </div>
 
 
-
     </div>
 
     <div class="container">
@@ -140,23 +139,9 @@
         </div>
     </div>
 
-
 </div>
+
+
 
 <?php get_footer(); ?>
-
-<div class="up_button">
-    <a href="#up">
-        <img src="img.up.png" alt="/\">
-    </a>
-</div>
-
-</div>
-
 <?php wp_footer(); ?>
-
-
-<!-- Yandex.Metrika counter --><!-- /Yandex.Metrika counter -->
-<!-- Google Analytics counter --><!-- /Google Analytics counter -->
-</body>
-</html>
