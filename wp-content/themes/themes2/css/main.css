@@ -805,7 +805,8 @@ a img.miniature {
     text-align: center;
 }
 
-.pagination a {
+.pagination a,
+.pagination span {
     background-color: #dfdfdf;
     display: inline-block;
     line-height: 30px;
@@ -819,14 +820,15 @@ a img.miniature {
 
 .pagination a:hover {
     text-decoration: none;
-    background: #cfcfcf;
+    background-color: #cfcfcf;
     color: #575757;
 
 }
 
-.pagination .active {
+.pagination .active,
+.pagination span.current {
     color: #cfcfcf;
-    color: #575757;
+    background-color: #575757;
 }
 
 /*--------------------------------------
