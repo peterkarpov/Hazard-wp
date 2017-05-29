@@ -39,9 +39,9 @@
                             <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                         </div>
                         <div class="contact_head">
-                            <p><span><i class="fa fa-phone" aria-hidden="true"></i>+777005566</span></p>
+                            <p><span><i class="fa fa-phone" aria-hidden="true"></i>+75550000011</span></p>
                             <p><i class="fa fa-envelope-o" aria-hidden="true"></i>
-                                <a href="mailto:mountain@yandex.ru">
+                                <a href="mailto:mountain@mountain.ru">
                                     mountain@yandex.ru</a></p>
                         </div>
                     </div>

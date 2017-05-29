@@ -33,7 +33,7 @@
                             <p>Ut dapibus ante ac felis vestibulum, ac interdum mauris vulputate. In quis volutpat
                                 turpis, in eleifend ipsum.
                             </p>
-                            <span>Webmoney WMZ: Z377909229847</span>
+                            <span>Webmoney WMZ: Z000000000000</span>
                         </div>
                     </div>
                 </div>
