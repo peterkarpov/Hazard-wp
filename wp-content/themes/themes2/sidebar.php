@@ -1,5 +1,11 @@
 <div class="col-lg-4 col-md-4">
     <div class="row">
+        <?php if (!dynamic_sidebar('sidebar')): ?>
+            <div class="sidebar_my">
+                <h3>Виджеты сайдбара</h3>
+            </div>
+        <?php endif; ?>
+        <!--
         <div class="sidebar_my">
             <div class="sidebar_box">
                 <h3>Категории</h3>
@@ -23,5 +29,6 @@
                 </ul>
             </div>
         </div>
+        -->
     </div>
 </div>

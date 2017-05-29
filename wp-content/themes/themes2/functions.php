@@ -94,6 +94,7 @@ add_action('after_setup_theme', 'underscores_content_width', 0);
  */
 function underscores_widgets_init()
 {
+    /*
     register_sidebar(array(
         'name' => esc_html__('Sidebar', 'underscores'),
         'id' => 'sidebar-1',
@@ -103,6 +104,17 @@ function underscores_widgets_init()
         'before_title' => '<h2 class="widget-title">',
         'after_title' => '</h2>',
     ));
+    */
+
+    register_sidebar(array(
+        'name' => 'Sidebar',
+        'id' => 'sidebar',
+        'before_widget' => '<div class="sidebar_my">',
+        'after_widget' => '</div>',
+        'before_title' => '<h3>',
+        'after_title' => '</h3>',
+    ));
+
 }
 
 add_action('widgets_init', 'underscores_widgets_init');

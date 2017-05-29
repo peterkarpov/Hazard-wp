@@ -775,6 +775,7 @@ a img.miniature {
 .sidebar_my h3 {
     color: #4d4d4d;
     padding-bottom: 15px;
+    border-bottom: 3px solid #e4e4e4;
 }
 
 .sidebar_my li {
@@ -792,7 +793,7 @@ a img.miniature {
     color: #000000;
 }
 
-.sidebar_box ul {
+.sidebar_my ul {
     margin-bottom: 40px;
 }
 
